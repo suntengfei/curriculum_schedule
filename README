@@ -1,0 +1,9 @@
+A curriculum schedule
+
+there are five panels that you can fill your lessons.
+
+longclick a listitem,you can choose whether to delete the item.
+
+in the buttom panel,there is a button to add lessons.
+
+each new lesson can not start at a time(weekday&&starttime) that already exist in the schedule.  
