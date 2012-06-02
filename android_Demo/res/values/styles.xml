@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget" parent="android:Widget">
+    </style>
+    
+    <style name="Widget.AbsListView">
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+    
+
+</resources>
